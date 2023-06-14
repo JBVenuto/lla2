@@ -1,0 +1,37 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.player-container {
+    padding-bottom: 20px;
+}
+
+.accordion {
+    width: 100%;
+    max-width: 420px;
+}
+
+.accordion__button {
+    display: flex;
+    align-items: center;
+    background-color: lightgray;
+}
+
+h4 {
+    margin: 10px 0;
+}
+
+.accordion__item .accordion__panel {
+    padding: 10px 20px;
+}
+
+li {
+    padding: 5px;
+}
+
+li:hover {
+    cursor: pointer;
+}
