@@ -201,7 +201,203 @@ const lessonConstants = {
                     time: 0
                 },
             },
-        }
+        },
+        italian: {
+            'section-1': {
+                'Italian1-1': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Italian%201-2.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-2': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%201-1.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-3': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Italian%201-3.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-4': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Italian%201-4.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-5': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Italian%201-5.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-6': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%201-6.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-7': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%201-7.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-8': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%201-8.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian1-9': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%201-9.mp3',
+                    played: false,
+                    time: 0
+                },
+            },
+            'section-2': {
+                'Italian2-1': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%202-1.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian2-2': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Italian%202-2.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian2-3': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%202-3.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian2-4': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%202-4.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian2-5': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%202-5.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian2-6': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%202-6.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian2-7': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Italian%202-7.mp3',
+                    played: false,
+                    time: 0
+                },
+            },
+            'section-3': {
+                'Italian3-1': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%203-1.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Italian3-2': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Italian%203-2.mp3',
+                    played: false,
+                    time: 0
+                },
+            },
+        },
+        spanish: {
+            'section-1': {
+                'Spanish1-1': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%201-1.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-2': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Spanish%201-2.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-3': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Spanish%201-3.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-4': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Spanish%201-4.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-5': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%201-5.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-6': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%201-6.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-7': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Spanish%201-7.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-8': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%201-8.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish1-9': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%201-9.mp3',
+                    played: false,
+                    time: 0
+                },
+            },
+            'section-2': {
+                'Spanish2-1': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%202-1.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish2-2': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%202-2.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish2-3': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%202-3.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish2-4': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Spanish%202-4.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish2-5': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Spanish%202-5.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish2-6': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%202-6.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish2-7': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%202-7.mp3',
+                    played: false,
+                    time: 0
+                },
+            },
+            'section-3': {
+                'Spanish3-1': {
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/Spanish%203-1.mp3',
+                    played: false,
+                    time: 0
+                },
+                'Spanish3-2': {
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/Spanish%203-2.mp3',
+                    played: false,
+                    time: 0
+                },
+            },
+        },
     }
 }
 
