@@ -112,12 +112,12 @@ const lessonConstants = {
                     time: 0
                 },
                 'German1-2': {
-                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/German%201-2.mp3',
+                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/German%201-3.mp3',
                     played: false,
                     time: 0
                 },
                 'German1-3': {
-                    locationSrc: 'https://ia601806.us.archive.org/10/items/russian-3-1/German%201-3.mp3',
+                    locationSrc: 'https://ia801806.us.archive.org/10/items/russian-3-1/German%201-2.mp3',
                     played: false,
                     time: 0
                 },
